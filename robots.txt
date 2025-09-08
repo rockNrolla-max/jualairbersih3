@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rocknrolla-max.github.io/jualairbersih3/sitemap.xml
